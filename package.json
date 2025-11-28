@@ -1,12 +1,12 @@
 {
-  "name": "goit-js-hw-11",
+  "name": "server-js-sandbox",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "vite",
-    "build": "vite build --base=/goit-js-hw-11/",
+    "build": "vite build --base=/server-js-sandbox/",
     "preview": "vite preview"
   },
   "devDependencies": {
